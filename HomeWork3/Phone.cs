@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork3
 {
-    public class Phone
+    class Phone
     {
         public double phoneHeight { get; set; }
         public double phoneWidth { get; set; }

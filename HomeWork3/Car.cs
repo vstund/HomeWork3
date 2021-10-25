@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork3
 {
-    public class Car
+    class Car
     {
         public string brand { get; set; }
         public string numberPlate { get; set; }
